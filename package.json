@@ -1,0 +1,26 @@
+{
+  "name": "puppeteertut",
+  "version": "1.0.0",
+  "description": "Following along with a Medium tutorial on Chrome Puppeteer.  See the README for the link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/puppeteerTut.git"
+  },
+  "keywords": [
+    "node",
+    "puppeteer"
+  ],
+  "author": "Dave Kanter",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/raydot/puppeteerTut/issues"
+  },
+  "homepage": "https://github.com/raydot/puppeteerTut#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
